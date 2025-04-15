@@ -1,8 +1,8 @@
 # SSS: Santi' Script Style: 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Codando+na+velocidade+do+som;Python%2C+C%2C+Java%2C+HTML%2C+CSS%3F+Toco+tudo.;Sem+paciência+pra+código+meia+boca.&font=Fira%20Code&fontsize=16&pause=1000&width=500&height=45&color=D9534F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Se+o+código+parece+mágico+é+porque+eu+não+dormi;Python%2C+C%2C+Java%2C+HTML%2C+CSS%3F+Toco+tudo.;Sem+paciência+pra+código+meia+boca.&font=Fira%20Code&fontsize=16&pause=1000&width=500&height=45&color=D9534F)](https://git.io/typing-svg)
 
-"I'm not telling you it's going to be easy, I'm telling you it's going to be worth it." - Essa vibe meio *quote motivacional* do rock, mas com a real.
+"Be yourself, don't take anything from anyone, and never let them take you alive" - Gerard Way.
 
 ## As Ferramentas? Essas Aqui:
 
