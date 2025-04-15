@@ -1,6 +1,6 @@
 # SSS: Santi' Script Style: 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=O+código+parece+mágico?+é+que+eu+não+dormi;Python%2C+C%2C+Java%2C+HTML%2C+CSS%3F+e+o+que+der+na+telha.;Sem+paciência+pra+código+meia+boca.&font=Fira%20Code&fontsize=16&pause=1000&width=500&height=45&color=D9534F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=O+código+parece+mágico?+é+que+eu+não+dormi;Python%2C+C%2C+Java%2C+HTML%2C+CSS%3F+o+que+eu+quiser.;Sem+paciência+pra+código+meia+boca.&font=Fira%20Code&fontsize=16&pause=1000&width=500&height=45&color=D9534F)](https://git.io/typing-svg)
 
 "Be yourself, don't take anything from anyone, and never let them take you alive" - Gerard Way.
 
